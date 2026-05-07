@@ -96,4 +96,5 @@ https://docs.jcohy.com/docs/spring-boot/2.6.11/html5/zh-cn/index.html
 七. 作者开发交流
 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 我的微信:  sqzyhaoqi
+我的邮箱： sqzyhaqi@163.com
  

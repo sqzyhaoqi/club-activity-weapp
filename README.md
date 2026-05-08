@@ -52,5 +52,8 @@
 
 ![输入图片说明](demo/89%E7%AE%A1%E7%90%86%E5%91%98.png)
 
-
+## 沟通交流
+- 作者：Bradley
+- 联系邮箱：sqzyhaoqi@163.com
+- 联系微信：sqzyhaoqi
  

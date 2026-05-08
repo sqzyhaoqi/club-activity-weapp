@@ -67,6 +67,12 @@
 				"selectedIconPath": "/projects/actcampus/images/tabbar/home_cur.png"
 			},
 			{
+				"pagePath": "projects/actcampus/pages/news/index/news_index",
+				"text": "新闻公告",
+				"iconPath": "/projects/actcampus/images/tabbar/news.png",
+				"selectedIconPath": "/projects/actcampus/images/tabbar/news_cur.png"
+			},
+			{
 				"pagePath": "projects/actcampus/pages/activity/calendar/activity_calendar",
 				"text": "预约日历",
 				"iconPath": "/projects/actcampus/images/tabbar/ticket.png",
